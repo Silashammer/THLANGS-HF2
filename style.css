@@ -1,0 +1,40 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://thlangs-hf2.emmalange.dk//Astra-child/
+ Description:  Astra Child Theme
+ Author:       Marcus Holm, Jonas Sandbjerg, Naja Høholt, Emma Holmberg, Silas Hammer
+ Author URI:   http://thlangs-hf2.emmalange.dk/
+ Template:     astra
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachildtheme
+*/
+
+/*dette gør at vores knappe har den rigtige røde farve - #EF4747*/
+.elementor-button
+{ background-color: #EF4747;
+ }
+
+/*disse to css endringer bestemmer vores to fonte på side.*/
+h2 
+{ font-family: "Helvetica", Sans-serif;
+letter-spacing: 3px !important;}
+
+.serie-text
+{ font-family: "Lato", Sans-serif !important;
+  line-height: 1.0em !important;}
+
+h3
+{ font-family: "Helvetica", Sans-serif !important;
+  font-size: 16px !important;
+  text-transform: uppercase !important;
+  font-weight: 1000 !important;
+
+}
+
+.scrollup-button {
+background-color: #57b46a !important;
+  bottom: 50px !important;
+}
